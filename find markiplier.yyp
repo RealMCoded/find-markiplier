@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "e962e80e-9b4a-4df4-8497-c0d1e9302698",
+            "Value": {
+                "id": "699c2ceb-3d7e-48d4-9d56-a87e7e8d27d8",
+                "resourcePath": "sounds\\snd_bruh\\snd_bruh.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "eec3520b-d4aa-44d4-9151-3bb8eb353e3d",
             "Value": {
                 "id": "2dd8416a-c881-49ac-a4ab-52bbc05d178f",
