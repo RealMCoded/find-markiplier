@@ -1,0 +1,2 @@
+/// @description
+np_clearpresence()
