@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "7949fdd1-ffe5-4a7d-b00e-a18387b34546",
+            "Value": {
+                "id": "4cf644d4-178a-4dcc-9103-3845bf72a8f0",
+                "resourcePath": "objects\\obj_btn_gameFreeplay\\obj_btn_gameFreeplay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7c6e13ca-7fd7-4ce8-bfb2-da96f49e54e8",
             "Value": {
                 "id": "55bc009d-e97a-4389-a79d-b416c87efe3b",
@@ -271,6 +279,14 @@
             }
         },
         {
+            "Key": "c7eb9382-48be-4b8c-8012-c342d6a4935b",
+            "Value": {
+                "id": "10973e88-30d8-477b-9912-2c0aed2afcbe",
+                "resourcePath": "views\\c7eb9382-48be-4b8c-8012-c342d6a4935b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "51eb41ee-48b8-41b9-885f-ca6dec860748",
@@ -324,6 +340,14 @@
                 "id": "699c2ceb-3d7e-48d4-9d56-a87e7e8d27d8",
                 "resourcePath": "sounds\\snd_bruh\\snd_bruh.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "edc35209-0cb9-4705-b5dc-4f9350971b2d",
+            "Value": {
+                "id": "551b00b8-c5c9-4add-b5f7-f20409762fd9",
+                "resourcePath": "objects\\obj_btn_gameTimed\\obj_btn_gameTimed.yy",
+                "resourceType": "GMObject"
             }
         },
         {

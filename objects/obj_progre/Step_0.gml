@@ -1,3 +1,3 @@
 /// @description
 time++
-if time > 766 {show_message("FAIL!") game_end()}
+if time > 766 {show_message("FAIL!") game_restart()}
