@@ -1,0 +1,2 @@
+/// @description
+room_restart()
