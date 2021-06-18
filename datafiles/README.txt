@@ -8,7 +8,10 @@ official sound track: https://cdn.discordapp.com/attachments/809095506814828604/
 
 ===CHANGELOGs===
 
-v0.2.0 (current)
+v0.2.1 (current)
+- New Easter Egg
+
+v0.2.0
 - Added Discord Presence
 - New gamemode: Timed. Find Markiplier before the timer reaches 0!
 - Title screen
