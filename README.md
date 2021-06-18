@@ -26,5 +26,7 @@ R - Reset the round (if you can't find him)
 # Building
 *Note: You don't need to build the game to play it. Get the game from [itch.io](https://mcoded.itch.io/find-markiplier)*
 
+*this part is still being worked on as well.*
+
 **Requirements**
 - GameMaker Studio 2.2.x (I used 2.2.5)
