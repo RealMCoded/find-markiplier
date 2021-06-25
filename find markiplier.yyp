@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1126d70e-5f5b-42c9-9a46-9d054ddeb03c",
+            "Value": {
+                "id": "6e81de90-4de1-4612-b0b8-9c5eb81dac88",
+                "resourcePath": "objects\\obj_diff\\obj_diff.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1264cc22-b5c1-41a3-8eb8-30b6a3356c26",
             "Value": {
                 "id": "7f1c6a16-6dcd-4af0-aafc-b23ca6651c8e",
