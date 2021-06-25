@@ -8,7 +8,10 @@ official sound track: https://cdn.discordapp.com/attachments/809095506814828604/
 
 ===CHANGELOGs===
 
-v0.2.1 (current)
+v0.2.2 (current)
+- Added difficulty switch (Easy, Normal, Hard). Only works in Timed mode.
+
+v0.2.1
 - New Easter Egg
 
 v0.2.0
