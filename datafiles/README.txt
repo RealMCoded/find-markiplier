@@ -8,7 +8,10 @@ official sound track: https://cdn.discordapp.com/attachments/809095506814828604/
 
 ===CHANGELOGs===
 
-v0.2.2 (current)
+v0.2.3 (current)
+- Markiplier should no longer spawn out of bounds
+
+v0.2.2
 - Added difficulty switch (Easy, Normal, Hard). Only works in Timed mode.
 
 v0.2.1
