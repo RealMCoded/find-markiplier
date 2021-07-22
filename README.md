@@ -16,6 +16,7 @@ Features:
 
 - Highscore System (NEVER DONE BEFORE :O)
 
+- Timed mode (how fast can u find him 🤔🤔🤔)
 
 Controls:
 
