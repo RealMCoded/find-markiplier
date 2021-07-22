@@ -30,8 +30,8 @@ R - Reset the round (if you can't find him)
 *this part is still being worked on as well.*
 
 **Requirements**
-- GameMaker Studio 2.2.x (I used 2.2.5)
+- GameMaker Studio 2.2.x (I used 2.2.5, any version higher than 2.2.x should work.)
 
 **To Build:**
-- Open the file `find markiplier.yyp` in Game Maker 
+- Open the file `find markiplier.yyp` in GameMaker Studio 2.2.x
 - When the Project is open, Press F5 to run the game or press CTRL+F8 to make an Executable
